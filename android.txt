@@ -1,0 +1,5 @@
+title=Calc24
+author=dodoo
+orientation=portrait
+
+
